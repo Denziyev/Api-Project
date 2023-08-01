@@ -1,5 +1,7 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using System.Data;
 using WebApplication1.Service.Dtos.Categories;
 using WebApplication1.Service.Dtos.Products;
 using WebApplication1.Service.Services.Interfaces;
@@ -7,6 +9,7 @@ using WebApplication1.Service.Services.Interfaces;
 namespace WebApplication1.Admin.Controllers
 {
     [Route("api/admin/[controller]/[action]")]
+    [Authorize(Roles = "Admin,SuperAdmin")]
     [ApiController]
     public class ProductsController : ControllerBase
     {

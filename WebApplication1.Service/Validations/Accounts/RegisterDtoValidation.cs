@@ -17,14 +17,14 @@ namespace WebApplication1.Service.Validations.Accounts
                 .NotNull().NotEmpty()
                 .MinimumLength(8)
                 .MaximumLength(25);
-            RuleFor(x => x).Custom((x, context) =>
-            {
-                Regex regex = new Regex("\"^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\\\\.[a-zA-Z]{2,}(\\\\.[a-zA-Z]{2,})?$\"");
-                if (!regex.IsMatch(x.Email))
-                {
-                    context.AddFailure("Email", "Email is not valid");
-                }
-            });
+            //RuleFor(x => x).Custom((x, context) =>
+            //{
+            //    Regex regex = new Regex("\"^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\\\\.[a-zA-Z]{2,}(\\\\.[a-zA-Z]{2,})?$\"");
+            //    if (!regex.IsMatch(x.Email))
+            //    {
+            //        context.AddFailure("Email", "Email is not valid");
+            //    }
+            //});
 
             RuleFor(x => x.Password)
                 .NotEmpty().NotNull()
