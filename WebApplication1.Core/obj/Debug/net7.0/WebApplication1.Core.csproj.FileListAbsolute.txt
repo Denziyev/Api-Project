@@ -1,0 +1,12 @@
+C:\Users\VO\Desktop\API\WebApplication1\WebApplication1.Core\bin\Debug\net7.0\WebApplication1.Core.deps.json
+C:\Users\VO\Desktop\API\WebApplication1\WebApplication1.Core\bin\Debug\net7.0\WebApplication1.Core.dll
+C:\Users\VO\Desktop\API\WebApplication1\WebApplication1.Core\bin\Debug\net7.0\WebApplication1.Core.pdb
+C:\Users\VO\Desktop\API\WebApplication1\WebApplication1.Core\obj\Debug\net7.0\WebApplication1.Core.csproj.AssemblyReference.cache
+C:\Users\VO\Desktop\API\WebApplication1\WebApplication1.Core\obj\Debug\net7.0\WebApplication1.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VO\Desktop\API\WebApplication1\WebApplication1.Core\obj\Debug\net7.0\WebApplication1.Core.AssemblyInfoInputs.cache
+C:\Users\VO\Desktop\API\WebApplication1\WebApplication1.Core\obj\Debug\net7.0\WebApplication1.Core.AssemblyInfo.cs
+C:\Users\VO\Desktop\API\WebApplication1\WebApplication1.Core\obj\Debug\net7.0\WebApplication1.Core.csproj.CoreCompileInputs.cache
+C:\Users\VO\Desktop\API\WebApplication1\WebApplication1.Core\obj\Debug\net7.0\WebApplication1.Core.dll
+C:\Users\VO\Desktop\API\WebApplication1\WebApplication1.Core\obj\Debug\net7.0\refint\WebApplication1.Core.dll
+C:\Users\VO\Desktop\API\WebApplication1\WebApplication1.Core\obj\Debug\net7.0\WebApplication1.Core.pdb
+C:\Users\VO\Desktop\API\WebApplication1\WebApplication1.Core\obj\Debug\net7.0\ref\WebApplication1.Core.dll

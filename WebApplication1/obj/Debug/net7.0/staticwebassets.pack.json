@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\VO\\Desktop\\API\\WebApplication1\\WebApplication1\\wwwroot\\assets\\images\\3da49b28-390a-4846-86b3-993dc9cd6294Amanda Jepson.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\3da49b28-390a-4846-86b3-993dc9cd6294Amanda Jepson.jpg"
+    },
+    {
+      "Id": "C:\\Users\\VO\\Desktop\\API\\WebApplication1\\WebApplication1\\wwwroot\\assets\\images\\3e9a3748-1035-4ef9-819b-5954b400afc9AMANDA WATKINS.png",
+      "PackagePath": "staticwebassets\\assets\\images\\3e9a3748-1035-4ef9-819b-5954b400afc9AMANDA WATKINS.png"
+    },
+    {
+      "Id": "C:\\Users\\VO\\Desktop\\API\\WebApplication1\\WebApplication1\\wwwroot\\assets\\images\\4b03fbed-0dc7-4708-977d-f7a995007a52AMANDA WATKINS.png",
+      "PackagePath": "staticwebassets\\assets\\images\\4b03fbed-0dc7-4708-977d-f7a995007a52AMANDA WATKINS.png"
+    },
+    {
+      "Id": "C:\\Users\\VO\\Desktop\\API\\WebApplication1\\WebApplication1\\wwwroot\\assets\\images\\74444ef5-caf0-4d22-955e-163925f95371AMANDA WATKINS.png",
+      "PackagePath": "staticwebassets\\assets\\images\\74444ef5-caf0-4d22-955e-163925f95371AMANDA WATKINS.png"
+    },
+    {
+      "Id": "C:\\Users\\VO\\Desktop\\API\\WebApplication1\\WebApplication1\\wwwroot\\assets\\images\\91f19377-0c0a-4448-b996-02592d17bddfAMANDA WATKINS.png",
+      "PackagePath": "staticwebassets\\assets\\images\\91f19377-0c0a-4448-b996-02592d17bddfAMANDA WATKINS.png"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.WebApplication1.props",
+      "PackagePath": "build\\WebApplication1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApplication1.props",
+      "PackagePath": "buildMultiTargeting\\WebApplication1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.WebApplication1.props",
+      "PackagePath": "buildTransitive\\WebApplication1.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,15 @@
+C:\Users\VO\Desktop\API\WebApplication1\WebApplication1.Data\bin\Debug\net7.0\WebApplication1.Data.deps.json
+C:\Users\VO\Desktop\API\WebApplication1\WebApplication1.Data\bin\Debug\net7.0\WebApplication1.Data.dll
+C:\Users\VO\Desktop\API\WebApplication1\WebApplication1.Data\bin\Debug\net7.0\WebApplication1.Data.pdb
+C:\Users\VO\Desktop\API\WebApplication1\WebApplication1.Data\bin\Debug\net7.0\WebApplication1.Core.dll
+C:\Users\VO\Desktop\API\WebApplication1\WebApplication1.Data\bin\Debug\net7.0\WebApplication1.Core.pdb
+C:\Users\VO\Desktop\API\WebApplication1\WebApplication1.Data\obj\Debug\net7.0\WebApplication1.Data.csproj.AssemblyReference.cache
+C:\Users\VO\Desktop\API\WebApplication1\WebApplication1.Data\obj\Debug\net7.0\WebApplication1.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VO\Desktop\API\WebApplication1\WebApplication1.Data\obj\Debug\net7.0\WebApplication1.Data.AssemblyInfoInputs.cache
+C:\Users\VO\Desktop\API\WebApplication1\WebApplication1.Data\obj\Debug\net7.0\WebApplication1.Data.AssemblyInfo.cs
+C:\Users\VO\Desktop\API\WebApplication1\WebApplication1.Data\obj\Debug\net7.0\WebApplication1.Data.csproj.CoreCompileInputs.cache
+C:\Users\VO\Desktop\API\WebApplication1\WebApplication1.Data\obj\Debug\net7.0\WebApplication1.Data.csproj.CopyComplete
+C:\Users\VO\Desktop\API\WebApplication1\WebApplication1.Data\obj\Debug\net7.0\WebApplication1.Data.dll
+C:\Users\VO\Desktop\API\WebApplication1\WebApplication1.Data\obj\Debug\net7.0\refint\WebApplication1.Data.dll
+C:\Users\VO\Desktop\API\WebApplication1\WebApplication1.Data\obj\Debug\net7.0\WebApplication1.Data.pdb
+C:\Users\VO\Desktop\API\WebApplication1\WebApplication1.Data\obj\Debug\net7.0\ref\WebApplication1.Data.dll
