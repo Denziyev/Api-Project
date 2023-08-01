@@ -92,3 +92,4 @@ C:\Users\VO\Desktop\API\WebApplication1\WebApplication1\obj\Debug\net7.0\refint\
 C:\Users\VO\Desktop\API\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.pdb
 C:\Users\VO\Desktop\API\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.genruntimeconfig.cache
 C:\Users\VO\Desktop\API\WebApplication1\WebApplication1\obj\Debug\net7.0\ref\WebApplication1.dll
+C:\Users\VO\Desktop\API\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

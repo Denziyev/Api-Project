@@ -1,4 +1,5 @@
 ﻿using AutoMapper;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -11,6 +12,7 @@ using WebApplication1.Service.Services.Interfaces;
 namespace WebApplication1.Admin.Controllers
 {
     [Route("api/admin/[controller]/[action]")]
+    [Authorize(Roles ="Admin,SuperAdmin")]
     [ApiController]
     public class CategoriesController : ControllerBase
     {

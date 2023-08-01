@@ -28,17 +28,17 @@ namespace WebApplication1.Service.Services.Implementations
 
         public async Task<ApiResponse> Login(LoginDto dto)
         {
-            IdentityUser user = await _userManager.FindByNameAsync(dto.Username);
+            IdentityUser? user = await _userManager.FindByNameAsync(dto.Username);
+
             if (user == null)
             {
-                return new ApiResponse { StatusCode = 404, Description = "UserName or Password is incorrect" };
+                return new ApiResponse { StatusCode = 404, Description = "Username or password is not correct" };
             }
 
             if (!await _userManager.CheckPasswordAsync(user, dto.Password))
             {
-                return new ApiResponse { StatusCode = 404, Description = "Username or password is  incorrect" };
+                return new ApiResponse { StatusCode = 404, Description = "Username or password is not correct" };
             }
-
             string keyStr = _configuration["Jwt:SecretKey"];
             SymmetricSecurityKey key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(keyStr));
             SigningCredentials credentials = new SigningCredentials(key, SecurityAlgorithms.HmacSha256);
